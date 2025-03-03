@@ -1,0 +1,10 @@
+C:\Users\Vikingo\source\repos\REGISTRO Y LOGIN\REGISTRO Y LOGIN\bin\Debug\REGISTRO Y LOGIN.exe.config
+C:\Users\Vikingo\source\repos\REGISTRO Y LOGIN\REGISTRO Y LOGIN\bin\Debug\REGISTRO Y LOGIN.exe
+C:\Users\Vikingo\source\repos\REGISTRO Y LOGIN\REGISTRO Y LOGIN\bin\Debug\REGISTRO Y LOGIN.pdb
+C:\Users\Vikingo\source\repos\REGISTRO Y LOGIN\REGISTRO Y LOGIN\obj\Debug\REGISTRO Y LOGIN.csproj.AssemblyReference.cache
+C:\Users\Vikingo\source\repos\REGISTRO Y LOGIN\REGISTRO Y LOGIN\obj\Debug\REGISTRO_Y_LOGIN.Properties.Resources.resources
+C:\Users\Vikingo\source\repos\REGISTRO Y LOGIN\REGISTRO Y LOGIN\obj\Debug\REGISTRO_Y_LOGIN.RYL.resources
+C:\Users\Vikingo\source\repos\REGISTRO Y LOGIN\REGISTRO Y LOGIN\obj\Debug\REGISTRO Y LOGIN.csproj.GenerateResource.cache
+C:\Users\Vikingo\source\repos\REGISTRO Y LOGIN\REGISTRO Y LOGIN\obj\Debug\REGISTRO Y LOGIN.csproj.CoreCompileInputs.cache
+C:\Users\Vikingo\source\repos\REGISTRO Y LOGIN\REGISTRO Y LOGIN\obj\Debug\REGISTRO Y LOGIN.exe
+C:\Users\Vikingo\source\repos\REGISTRO Y LOGIN\REGISTRO Y LOGIN\obj\Debug\REGISTRO Y LOGIN.pdb
